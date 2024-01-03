@@ -1,3 +1,6 @@
+# Credits
+Renz00h & Sektor7 Institute for code templates and training
+
 # An-Introductory-Guide-to-Cyber-Warfare
 An Introductory Guide to Cyber Warfare, published by Orange, AVA™
 
